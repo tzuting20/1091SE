@@ -1,9 +1,3 @@
-<style>
-<!-- A{text-decoration:none} -->
-input {
-
-}
-</style>
 <?php
 session_start();
 require("dbconnect.php");
